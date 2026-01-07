@@ -85,7 +85,7 @@ Sales trends are analyzed across multiple time granularities:
 
 This allows stakeholders to identify seasonality, growth patterns and performance fluctuations over time.
 
-![Sales Trend]()
+![Sales Trend](https://github.com/user-attachments/assets/995eca05-78aa-4081-8979-5b3d23fe8a87)
 
 
 ## Relationship Between Sales and Profit
