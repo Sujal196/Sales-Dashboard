@@ -26,19 +26,26 @@ The dataset contains transactional sales data with attributes including:
 * Promotion Category
 * Order ID
 
-The data was sourced from structured flat files and loaded into **Power BI Desktop** for transformation, modeling, and visualization.
+The data was sourced from structured flat files and loaded into **Power BI Desktop** for transformation, modeling and visualization.
 
+### Steps Followed
 
-## 3. Data Preparation & Modeling (Power Query)
+* Step 1 : Loaded sales data into Power BI Desktop from structured flat files (CSV format).
+* Step 2 : Opened Power Query Editor and enabled column distribution, column quality and column profile under the Data Preview section.
+* Step 3 : Enabled column profiling based on the entire dataset instead of the default 1000 rows.
+* Step 4 : Validated data types for sales, quantity, discount, profit and date fields; handled null and duplicate values where applicable.
+* Step 5 : Created calculated columns and DAX measures for Net Sales, Total Orders, Total Units Sold and Profit metrics.
+* Step 6 : Applied a consistent report theme to ensure a professional and stakeholder-ready layout.
+* Step 7 : Added KPI card visuals representing Total Sales, Net Sales, Total Units Sold, Total Orders and Total Profit.
+* Step 8 : Created bar charts to display Top 5 and Bottom 5 products by Sales, Quantity Sold and Profit using Top N filters.
+* Step 9 : Added a line chart with date hierarchy to analyze sales trends over daily, monthly, quarterly and yearly levels.
+* Step 10 : Used a scatter plot to visualize the relationship between Sales and Profit, highlighting high-revenue but low-margin products.
+* Step 11 : Created a column chart to show average discount by promotion category.
+* Step 12 : Added a map visual to represent Net Sales by City and a matrix to show Net Sales by Product Name.
+* Step 13 : Built a detailed Sales Information Dashboard displaying Sales, Profit, Discount, Net Sales and Quantity at the order level.
+* Step 14 : Added slicers for Product Name, Date, Customer ID and Promotion Category to enable interactive filtering.
+* Step 15 : Published the report to Power BI Service for stakeholder access.
 
-* Data loaded into Power BI Desktop
-* Column profiling enabled (column distribution, quality, and profile)
-* Data types validated for date, numeric, and categorical fields
-* Null and duplicate records checked and handled appropriately
-* Calculated columns and measures created using DAX
-* Star schema implemented for optimized performance
-
----
 
 ## 4. Key Performance Indicators (KPIs)
 
