@@ -154,11 +154,6 @@ This ensures complete transparency and self-service analytics for business users
 * Urban cities contribute the highest net sales
 
   
-## 13. Conclusion
+## Conclusion
 
-The **Sales Analytics Power BI Dashboard** delivers a comprehensive, scalable, and executive-ready analytics solution. It empowers stakeholders with real-time insights, improves decision accuracy, and supports revenue growth and profitability optimization through data-backed strategies.
-
----
-
-*Prepared by: Power BI Analytics Consultant*
-*Tool Used: Microsoft Power BI*
+The **Sales Power BI Dashboard** delivers a comprehensive, scalable and executive-ready analytics solution. It empowers stakeholders with real-time insights, improves decision accuracy and supports revenue growth and profitability optimization through data-backed strategies.
