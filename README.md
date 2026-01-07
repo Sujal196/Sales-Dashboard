@@ -96,7 +96,7 @@ A scatter plot is used to analyze the correlation between sales and profit at th
 * Premium high-margin products
 * Products requiring cost or pricing optimization
 
-![Sales vs Profit]()
+![Sales vs Profit](https://github.com/user-attachments/assets/dc261d2d-d554-4e42-8796-206a39ac2297)
 
 ## Average Discount by Promotion Category
 
