@@ -70,11 +70,11 @@ The following KPIs are displayed prominently at the top of the dashboard to prov
 These visuals help identify high-performing and underperforming products, enabling inventory optimization and pricing strategy adjustments.
 
 
-![Top Bottom Products]()
+![Top Bottom Products](https://github.com/user-attachments/assets/ed422122-f151-4fd3-96d0-4e88ef71b136)
 
 ---
 
-## 6. Sales Trend Over Time
+## Sales Trend Over Time
 
 Sales trends are analyzed across multiple time granularities:
 
@@ -83,16 +83,12 @@ Sales trends are analyzed across multiple time granularities:
 * Quarterly
 * Yearly
 
-This allows stakeholders to identify seasonality, growth patterns, and performance fluctuations over time.
+This allows stakeholders to identify seasonality, growth patterns and performance fluctuations over time.
 
-**Visual Used:** Line chart with date hierarchy
+![Sales Trend]()
 
-**Image Reference:**
-![Sales Trend](https://via.placeholder.com/900x400?text=Sales+Trend+Over+Time)
 
----
-
-## 7. Relationship Between Sales and Profit
+## Relationship Between Sales and Profit
 
 A scatter plot is used to analyze the correlation between sales and profit at the product level. This visualization helps identify:
 
@@ -100,43 +96,30 @@ A scatter plot is used to analyze the correlation between sales and profit at th
 * Premium high-margin products
 * Products requiring cost or pricing optimization
 
-**Visual Used:** Scatter chart (Sales vs Profit)
+![Sales vs Profit]()
 
-**Image Reference:**
-![Sales vs Profit](https://via.placeholder.com/900x400?text=Sales+vs+Profit+Relationship)
+## Average Discount by Promotion Category
 
----
+This section evaluates promotional effectiveness by calculating the average discount offered under each promotion category. It helps marketing teams understand discount intensity and its potential impact on margins.
 
-## 8. Average Discount by Promotion Category
+![Average Discount]()
 
-This section evaluates promotional effectiveness by calculating the **average discount offered** under each promotion category. It helps marketing teams understand discount intensity and its potential impact on margins.
+## Net Sales by City and Product
 
-**Visual Used:** Column chart
+A geographical and product-level breakdown of net sales is provided to understand regional demand and city-wise performance.
 
-**Image Reference:**
-![Average Discount](https://via.placeholder.com/900x400?text=Average+Discount+by+Promotion+Category)
-
----
-
-## 9. Net Sales by City and Product
-
-A geographical and product-level breakdown of **Net Sales** is provided to understand regional demand and city-wise performance.
-
-**Visuals Used:**
 
 * Map visual (City-wise Net Sales)
 * Table / Matrix (Product-wise Net Sales)
 
 **Image Reference:**
-![Net Sales by City](https://via.placeholder.com/900x400?text=Net+Sales+by+City)
+![Net Sales by City]()
 
-![Net Sales by Product](https://via.placeholder.com/900x400?text=Net+Sales+by+Product)
+![Net Sales by Product]()
 
----
+## Sales Information Drill-Through Dashboard
 
-## 10. Sales Information Drill-Through Dashboard
-
-A detailed sales information view allows users to drill down to the **order level**, showing:
+A detailed sales information view allows users to drill down to the order level, showing:
 
 * Sales
 * Profit
@@ -148,7 +131,7 @@ Interactive slicers are provided for:
 
 * Product Name
 * Date
-* Customer ID
+* State & City
 * Promotion Category
 
 This ensures complete transparency and self-service analytics for business users.
