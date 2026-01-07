@@ -112,9 +112,8 @@ A geographical and product-level breakdown of net sales is provided to understan
 * Map visual (City-wise Net Sales)
 * Table (Product-wise Net Sales)
 
-![Net Sales by City](https://github.com/user-attachments/assets/8472d31c-66be-43a5-8ae7-7d5e7d87a8ce)
+![Net Sales by City](https://github.com/user-attachments/assets/8472d31c-66be-43a5-8ae7-7d5e7d87a8ce)  ![Net Sales by Product](https://github.com/user-attachments/assets/bc178719-b7fa-4762-a394-35c9bba91f9e)
 
-![Net Sales by Product](https://github.com/user-attachments/assets/bc178719-b7fa-4762-a394-35c9bba91f9e)
 
 ## Sales Information Drill-Through Dashboard
 
