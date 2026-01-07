@@ -57,14 +57,9 @@ The following KPIs are displayed prominently at the top of the dashboard to prov
 * Total Orders – Distinct count of Order IDs
 * Total Profit – Overall profitability of sales
 
-* Visual Used: Card visuals
-
 ![KPI Cards](https://github.com/user-attachments/assets/a81ba408-07ca-4358-bb73-06e1155540f9)
 
-
----
-
-## 5. Top & Bottom Product Performance
+## Top & Bottom Product Performance
 
 ### Top 5 and Bottom 5 Products by:
 
@@ -74,10 +69,8 @@ The following KPIs are displayed prominently at the top of the dashboard to prov
 
 These visuals help identify high-performing and underperforming products, enabling inventory optimization and pricing strategy adjustments.
 
-**Visual Used:** Clustered bar charts with Top N filtering
 
-**Image Reference:**
-![Top Bottom Products](https://via.placeholder.com/900x400?text=Top+and+Bottom+Products+by+Sales+Profit+Quantity)
+![Top Bottom Products]()
 
 ---
 
