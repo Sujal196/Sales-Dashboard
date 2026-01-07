@@ -28,7 +28,7 @@ The dataset contains transactional sales data with attributes including:
 
 The data was sourced from structured flat files and loaded into **Power BI Desktop** for transformation, modeling and visualization.
 
-### Steps Followed
+## Steps Followed
 
 * Step 1 : Loaded sales data into Power BI Desktop from structured flat files (CSV format).
 * Step 2 : Opened Power Query Editor and enabled column distribution, column quality and column profile under the Data Preview section.
@@ -47,7 +47,7 @@ The data was sourced from structured flat files and loaded into **Power BI Deskt
 * Step 15 : Published the report to Power BI Service for stakeholder access.
 
 
-## 4. Key Performance Indicators (KPIs)
+## Key Performance Indicators
 
 The following KPIs are displayed prominently at the top of the dashboard to provide an executive snapshot:
 
@@ -57,9 +57,8 @@ The following KPIs are displayed prominently at the top of the dashboard to prov
 * Total Orders – Distinct count of Order IDs
 * Total Profit – Overall profitability of sales
 
-**Visual Used:** Card visuals
+* Visual Used: Card visuals
 
-**Image Reference:**
 ![KPI Cards](https://github.com/user-attachments/assets/a81ba408-07ca-4358-bb73-06e1155540f9)
 
 
