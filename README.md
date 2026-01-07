@@ -110,9 +110,8 @@ A geographical and product-level breakdown of net sales is provided to understan
 
 
 * Map visual (City-wise Net Sales)
-* Table / Matrix (Product-wise Net Sales)
+* Table (Product-wise Net Sales)
 
-**Image Reference:**
 ![Net Sales by City]()
 
 ![Net Sales by Product]()
@@ -130,27 +129,23 @@ A detailed sales information view allows users to drill down to the order level,
 Interactive slicers are provided for:
 
 * Product Name
-* Date
+* Product Category
 * State & City
 * Promotion Category
 
 This ensures complete transparency and self-service analytics for business users.
 
-**Image Reference:**
-![Sales Details](https://via.placeholder.com/900x400?text=Sales+Information+Dashboard)
 
----
+![Sales Details]()
 
-## 11. Interactivity & Filters
+## Interactivity & Filters
 
 * Cross-filtering enabled across all visuals
 * Date slicer for period comparison
-* Product, city, and promotion category filters
+* Product, city and promotion category filters
 * Tooltip insights for enhanced user experience
 
----
-
-## 12. Key Business Insights
+## Key Business Insights
 
 * Top products contribute a significant share of total revenue, while bottom products highlight optimization opportunities
 * Seasonal trends impact monthly and quarterly sales performance
@@ -158,8 +153,7 @@ This ensures complete transparency and self-service analytics for business users
 * Certain promotion categories drive volume but reduce margins
 * Urban cities contribute the highest net sales
 
----
-
+  
 ## 13. Conclusion
 
 The **Sales Analytics Power BI Dashboard** delivers a comprehensive, scalable, and executive-ready analytics solution. It empowers stakeholders with real-time insights, improves decision accuracy, and supports revenue growth and profitability optimization through data-backed strategies.
