@@ -62,7 +62,7 @@ The following KPIs are displayed prominently at the top of the dashboard to prov
 **Visual Used:** Card visuals
 
 **Image Reference:**
-![KPI Cards]()
+![KPI Cards](https://github.com/user-attachments/assets/98925a42-1b49-4805-bd15-45ee2fffdd23)
 
 
 ---
