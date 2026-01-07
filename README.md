@@ -51,16 +51,16 @@ The data was sourced from structured flat files and loaded into **Power BI Deskt
 
 The following KPIs are displayed prominently at the top of the dashboard to provide an executive snapshot:
 
-* **Total Sales** – Sum of gross sales value
-* **Net Sales** – Sales after discount deductions
-* **Total Units Sold** – Aggregate quantity sold
-* **Total Orders** – Distinct count of Order IDs
-* **Total Profit** – Overall profitability of sales
+* Total Sales – Sum of gross sales value
+* Net Sales – Sales after discount deductions
+* Total Units Sold – Aggregate quantity sold
+* Total Orders – Distinct count of Order IDs
+* Total Profit – Overall profitability of sales
 
 **Visual Used:** Card visuals
 
 **Image Reference:**
-![KPI Cards](https://github.com/user-attachments/assets/98925a42-1b49-4805-bd15-45ee2fffdd23)
+![KPI Cards](https://github.com/user-attachments/assets/a81ba408-07ca-4358-bb73-06e1155540f9)
 
 
 ---
