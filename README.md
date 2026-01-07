@@ -102,7 +102,7 @@ A scatter plot is used to analyze the correlation between sales and profit at th
 
 This section evaluates promotional effectiveness by calculating the average discount offered under each promotion category. It helps marketing teams understand discount intensity and its potential impact on margins.
 
-![Average Discount]()
+![Average Discount](https://github.com/user-attachments/assets/597a00fc-7211-4cbd-ba34-cbf8ba8953ed)
 
 ## Net Sales by City and Product
 
@@ -112,7 +112,7 @@ A geographical and product-level breakdown of net sales is provided to understan
 * Map visual (City-wise Net Sales)
 * Table (Product-wise Net Sales)
 
-![Net Sales by City]()
+![Net Sales by City](https://github.com/user-attachments/assets/8472d31c-66be-43a5-8ae7-7d5e7d87a8ce)
 
 ![Net Sales by Product]()
 
@@ -136,7 +136,7 @@ Interactive slicers are provided for:
 This ensures complete transparency and self-service analytics for business users.
 
 
-![Sales Details]()
+![Sales Details](https://github.com/user-attachments/assets/9c27b916-cffd-4080-a882-b585b2ca3ebe)
 
 ## Interactivity & Filters
 
