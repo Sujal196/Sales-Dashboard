@@ -1,25 +1,17 @@
-## Sales Analytics Dashboard (Power BI)
+## Sales-Dashboard 
 
-### Dashboard Link
+### Dashboard Link : *(To be updated after Power BI Service publication)*
 
-*(To be updated after Power BI Service publication)*
+## Problem Statement 
 
----
+This dashboard helps the organization understand its sales performance, profitability and customer demand patterns across products, cities and promotional categories. It enables business stakeholders to identify top and bottom performing products, evaluate the impact of discounts and promotions and track sales trends over time to support informed strategic and operational decisions.
 
-## 1. Business Objective
+Through key performance indicators such as total sales, net sales, total units sold, total orders and total profit, decision-makers gain a consolidated view of overall business health. Additionally, by analyzing the relationship between sales and profit, the organization can identify margin leakages caused by excessive discounting or inefficient pricing strategies.
 
-The **Sales Analytics Dashboard** is designed to provide senior management and business stakeholders with a consolidated, interactive view of sales performance across products, cities, promotions, and time periods. The primary goal of this dashboard is to enable **data-driven decision-making** by identifying revenue drivers, profit leakages, customer demand patterns, and promotional effectiveness.
+Since profitability does not always grow proportionally with sales, this dashboard highlights such gaps and enables corrective actions through product rationalization, promotion optimization and regional performance analysis.
 
-This report supports strategic planning, operational monitoring, and performance evaluation by answering key business questions such as:
 
-* Which products and cities are driving the highest and lowest sales and profit?
-* How are sales trending over time across different granularities?
-* What is the relationship between sales volume and profitability?
-* How effective are discounts and promotions in driving net sales?
-
----
-
-## 2. Dataset Overview
+## Dataset Overview
 
 The dataset contains transactional sales data with attributes including:
 
@@ -36,7 +28,6 @@ The dataset contains transactional sales data with attributes including:
 
 The data was sourced from structured flat files and loaded into **Power BI Desktop** for transformation, modeling, and visualization.
 
----
 
 ## 3. Data Preparation & Modeling (Power Query)
 
