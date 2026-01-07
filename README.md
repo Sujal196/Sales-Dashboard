@@ -10,8 +10,6 @@ Through key performance indicators such as total sales, net sales, total units s
 
 Since profitability does not always grow proportionally with sales, this dashboard highlights such gaps and enables corrective actions through product rationalization, promotion optimization and regional performance analysis.
 
----
-
 
 ## Dataset Overview
 
